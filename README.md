@@ -72,9 +72,7 @@
   
  <div dir="ltr" align='left'>
        
-1. [ ] <span  dir="rtl" align='right'> [مستند سلامتی](./health.md) رو بخون </span>
-2. [ ] <span  dir="rtl" align='right'> در جلسه کتابخوانی کتاب «کار عمیق» شرکت کن. چهارشنبه 3 شهریور ساعت 16 تا 17 </span>
-  
+1. [ ] <span  dir="rtl" align='right'> [مستند سلامتی](./health.md) رو بخون </span>  
   
      </div>
   </details>
