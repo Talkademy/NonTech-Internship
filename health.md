@@ -12,9 +12,9 @@
 هر کجا که کار می‌کنید، نکات ذکر شده تو تصویر زیر را رعایت کنید. 
 مواردی مثل موقعیت مانیتور نسبت به چشم‌ها، موقعیت موس و کیبرد نسبت به دست‌ها و به خصوص مچ، موقعیت کف پا نسبت به زمین و صاف بودن کمر و گردن بسیار مهم هستند.
     
-([پوستر با کیفیت‌تر عکس زیر با فرمت PDF](./Resources/ergo.pdf))
+([پوستر با کیفیت‌تر عکس زیر با فرمت PDF](./ergo.pdf))
 
-<div style="text-align:center"><img src="./Resources/ergo.png" alt="Ergonomic Workstation" width="60%"></div>
+<div style="text-align:center"><img src="./ergo.png" alt="Ergonomic Workstation" width="60%"></div>
 
 ## ارگونومی در استفاده از لپتاپ
 
