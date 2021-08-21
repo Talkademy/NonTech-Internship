@@ -25,7 +25,7 @@
 <div dir="rtl" align='right'>
   
   
-# هفته چهارم
+# هفته دوم
   
 <details>  
   <summary> کارهای کارآموز </summary>
